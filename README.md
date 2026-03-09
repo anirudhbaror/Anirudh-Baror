@@ -4,8 +4,6 @@
 
 I am a Developer and Content Creator currently on a **90-Day Deep Dive** into Python and Data Structures. My journey isn't just about syntax; it's about rebuilding discipline and logic from the ground up.
 
----
-
 ### 🛠 Tech Stack & Tools
 - **Languages:** Python (Focusing on DSA & Automation)
 - **Tools:** Git, GitHub, VS Code
